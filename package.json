@@ -1,0 +1,30 @@
+{
+  "name": "api-node-template",
+  "version": "1.0.0",
+  "description": "A template to create node.js REST APIs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fpapleux/api-node-template.git"
+  },
+  "keywords": [
+    "api",
+    "node",
+    "rest",
+    "template",
+    "express"
+  ],
+  "author": "Fabien Papleux",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fpapleux/api-node-template/issues"
+  },
+  "homepage": "https://github.com/fpapleux/api-node-template#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
